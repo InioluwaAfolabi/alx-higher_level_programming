@@ -1,5 +1,3 @@
-12 lines (9 sloc)  260 Bytes
-
 #!/usr/bin/python3
 """
 function that creates an Object from a “JSON file”
